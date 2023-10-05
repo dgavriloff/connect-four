@@ -1,0 +1,24 @@
+
+.board {
+
+  display: flex;
+}
+
+.col div{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.tile {
+  text-align: center;
+  font-size: 40px;
+  width:100px;
+  height: 100px;
+  margin-right: -2px;
+  margin-bottom: -2px;
+}
+
+.icon-tile{
+  margin-bottom: 1000px;
+}
